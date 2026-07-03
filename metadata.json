@@ -1,0 +1,6 @@
+{
+  "name": "Tabuadas de Multiplicação e Divisão",
+  "description": "Gerador de tabuadas de multiplicação e divisão com tema Minecraft em alta resolução, otimizado para impressão em folha A4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
